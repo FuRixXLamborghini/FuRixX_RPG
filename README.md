@@ -8,7 +8,7 @@ If you really like the project and want me to continue developing it, you can do
 https://www.paypal.com/paypalme/FurixL
 
 If you want to contact me you can do it from:
-* Discord: Youbi ™ # 0949
+* Discord: Youbi™#0949
 * Email: xfxx28@gmail.com
 
 ## Español
