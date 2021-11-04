@@ -8,8 +8,8 @@ If you really like the project and want me to continue developing it, you can do
 https://www.paypal.com/paypalme/FurixL
 
 If you want to contact me you can do it from:
-Discord: Youbi ™ # 0949
-Email: xfxx28@gmail.com
+* Discord: Youbi ™ # 0949
+* Email: xfxx28@gmail.com
 
 ## Español
 Publico este proyecto que empecé hace más de un año y que nunca continué por la decadencia del roleplay en Arma 3, todo el proyecto está en mi idioma nativo, Español, por lo que si usted habla otro idioma tendrá que traducirlo. Es una base creada por mi desde cero, sin partir de la típica base de Tonic (Altis Life), para crear su servidor de roleplay de forma sencilla, no en necesario MySQL, utilicé INIDBI2 para almacenar los datos de los usuarios en el lado del servidor, por lo que para probar la base solo tiene que cargar la misión y los dos mods (@FuRixX_RPG y @INIDBI2), es importante que ambos mods se cargen exclusivamente en el lado del servidor como "ServerMod" para que los usuarios puedan entrar si descargar ningún mod. Además me he molestado en almacenar prácticamente todas las funciones en el servidor para que el cliente no pueda tener acceso a ellas, lo que le libra de encriptar su misión, pues las funciones que agregue estaran protegidas si las define como las definí yo. Si recibo mucho apoyo puede que reanude el proyecto. No obstante, si crea algún proyecto con mi base me gustaría que me pasara vídeos o imágenes de lo que ha logrado hacer con la base. Las condiciones para su uso son:
@@ -20,5 +20,5 @@ Si realmente te gusta el proyecto y quieres que continue desarrollandolo puedes 
 https://www.paypal.com/paypalme/FurixL
 
 Si quieres contactar conmigo puedes hacerlo desde:
-Discord: Youbi™#0949
-Correo: xfxx28@gmail.com
+* Discord: Youbi™#0949
+* Correo: xfxx28@gmail.com
